@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/kayz41"><img src="https://img.shields.io/badge/GitHub-kayz41-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://kayz41.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6f42c1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio website"></a>
   <a href="https://www.linkedin.com/in/joel-kayz-464762343/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/University-ISBAT%20University-0B5CAD?style=for-the-badge" alt="ISBAT University">
 </p>
@@ -55,6 +56,13 @@ I enjoy understanding how systems work, solving technical problems, and turning 
 </p>
 
 ## 🚀 Featured Work
+
+### 🌐 Personal Developer Portfolio
+
+My personal portfolio website, hosted through GitHub Pages. It is the central place to present my developer profile, skills and selected work.
+
+- **[Visit my live portfolio](https://kayz41.github.io/)**
+- **[Explore the portfolio source code](https://github.com/kayz41/kayz41.github.io)**
 
 ### 🏥 Hospital Management System
 A Java desktop application built with **Java Swing, Maven and Microsoft SQL Server**.
