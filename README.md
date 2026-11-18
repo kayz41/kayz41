@@ -1,82 +1,114 @@
-# Hi, I'm Joel Kayz 👋
+# 👋 Hi, I'm Joel Kayz
 
-### Applied Information Technology Student | Aspiring Software Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=720&lines=Applied+Information+Technology+Student;Aspiring+Software+Developer;Learning+by+building+real+projects" alt="Typing introduction">
+</p>
 
-I'm a Bachelor of Science in Applied Information Technology student at **ISBAT University**, Uganda, with a strong interest in software development, database management, and practical IT solutions.
-
-I enjoy learning how software systems work, solving technical problems, and building applications that address real-world needs.
-
----
-
-## 🎯 About Me
-
-- 🎓 Studying **BSc Applied Information Technology** at ISBAT University.
-- 💻 Interested in Java development and database-driven applications.
-- 🗄️ Working with Microsoft SQL Server and relational database concepts.
-- 🔐 Exploring authentication, access control, and application security.
-- 🚀 Focused on continuous learning and building practical software projects.
+<p align="center">
+  <a href="https://github.com/kayz41"><img src="https://img.shields.io/badge/GitHub-kayz41-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/joel-kayz-464762343/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/University-ISBAT%20University-0B5CAD?style=for-the-badge" alt="ISBAT University">
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🧭 About Me
 
-**Languages and Development**
+<table>
+  <tr>
+    <td width="62%" valign="top">
 
-- Java
-- SQL
-- Object-Oriented Programming
-- Java Swing
+I’m a **Bachelor of Science in Applied Information Technology student at ISBAT University, Uganda**, building a strong foundation in software development and practical IT.
 
-**Database and Tools**
+I enjoy understanding how systems work, solving technical problems, and turning ideas into useful applications. My current development interests include Java programming, database-driven systems, application security and web development.
 
-- Microsoft SQL Server
-- JDBC
-- Apache Maven
-- Git and GitHub
-- Apache NetBeans IDE
+**What drives me:** continuous learning, disciplined building, and creating technology that solves real problems.
 
-**Areas of Interest**
+    </td>
+    <td width="38%" valign="top">
 
-- Software Development
-- Database Management
-- Application Security
-- Desktop Application Development
-- System Design
+### 🎯 Current direction
+
+- Strengthening Java and OOP
+- Improving SQL and database design
+- Exploring secure application development
+- Building and documenting practical projects
+- Growing my software engineering foundation
+
+    </td>
+  </tr>
+</table>
+
+## ⚙️ Technology & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
+  <img src="https://img.shields.io/badge/Java%20Swing-5382A1?style=for-the-badge" alt="Java Swing">
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="Apache NetBeans">
+</p>
+
+## 🚀 Featured Work
+
+### 🏥 Hospital Management System
+A Java desktop application built with **Java Swing, Maven and Microsoft SQL Server**.
+
+Areas covered include patient and doctor management, appointments, billing and reporting, authentication, role-based access, password hashing and audit logging.
+
+➡️ **[Explore Hospital Management System](https://github.com/kayz41/Hospital-Management-System)**
+
+### 🌐 Web Design Lab Practicals
+A collection of ten university web-design practicals demonstrating HTML5, CSS, forms, tables, Flexbox, CSS Grid and Git/GitHub.
+
+➡️ **[Explore Web Design Lab Practicals](https://github.com/kayz41/Web-Design-Lab-Practicals)**
+
+## 📈 GitHub Activity Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kayz41&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats for kayz41" height="175">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayz41&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" height="175">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kayz41&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kayz41&theme=tokyo-night&hide_border=true" alt="GitHub activity graph">
+</p>
+
+> These visualisations are generated by external services and may occasionally be delayed or unavailable. Language statistics reflect public repository code, not a complete measure of proficiency.
+
+## 🗃️ My Public Activity Record
+
+A GitHub Actions workflow checks my **public GitHub events daily** and records newly observed activity in the repository log.
+
+➡️ **[Open my activity log](ACTIVITY.md)**
+
+This log is limited to public events visible through GitHub's API. It does not track private work, offline learning or activity on my computer.
+
+## 🌱 What I'm Working Towards
+
+- Becoming a capable software developer.
+- Designing reliable, secure and useful applications.
+- Deepening my understanding of databases and system design.
+- Building projects that demonstrate practical problem-solving.
+
+## 🤝 Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/joel-kayz-464762343/"><img src="https://img.shields.io/badge/LinkedIn-Joel%20Kayz-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn profile"></a>
+  <a href="https://github.com/kayz41"><img src="https://img.shields.io/badge/GitHub-@kayz41-181717?style=flat-square&logo=github" alt="GitHub profile"></a>
+</p>
 
 ---
 
-## 🚀 Featured Project
-
-### Hospital Management System
-
-A Java-based desktop application developed using Java Swing, Maven, and Microsoft SQL Server.
-
-**Key areas of functionality include:**
-- Patient and doctor management
-- Appointment management
-- Billing and reporting
-- User authentication and role-based access
-- Password hashing and audit logging
-
-🔗 **[View Hospital Management System](https://github.com/kayz41/Hospital-Management-System)**
-
----
-
-## 📚 Currently Focused On
-
-- Strengthening Java programming skills.
-- Improving SQL and database design knowledge.
-- Learning professional software development practices.
-- Building and documenting practical IT projects.
-- Developing a strong software engineering foundation.
-
----
-
-## 🤝 Connect With Me
-
-- **LinkedIn:** [Joel Kayz](https://www.linkedin.com/in/joel-kayz-464762343/)
-- **GitHub:** [@kayz41](https://github.com/kayz41)
-
----
-
-*Learning continuously. Building practically. Improving consistently.*
+<p align="center">
+  <i>Learn continuously. Build with purpose. Improve every day.</i>
+</p>
